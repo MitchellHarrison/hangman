@@ -22,7 +22,8 @@ correct_guess_phrases = [
     ]
 loss_phrases = [
     "MWAHAHAHA!! You LOSE!!",
-    "Hm. As expected... You LOSE!!"
+    "Hm. As expected... You LOSE!!",
+    "You LOSE!! Try again if you want the same result..."
 ]
 victory_phrases = [
     "YOU CHEATED!!!",
