@@ -1,5 +1,4 @@
 from random_word import RandomWords
-from time import sleep
 from re import match
 from random import choice
 
